@@ -1,0 +1,19 @@
+#summary One-Default controls and control configuration for Macifom.
+#labels Featured
+
+= Introduction =
+
+As of version 0.1, Macifom supports only keyboard input for gameplay. A description of the key mapping follows.
+
+
+= Details =
+
+Key Mapping (Controller 1)
+  * w - *Up*
+  * s - *Down*
+  * a - *Left*
+  * d - *Right*
+  * g - *Select*
+  * h - *Start*
+  * k - *B*
+  * l - *A*
