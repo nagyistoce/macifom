@@ -1,10 +1,9 @@
-#summary One-Default controls and control configuration for Macifom.
+#summary Default controls and control configuration for Macifom.
 #labels Featured
 
 = Introduction =
 
-As of version 0.1, Macifom supports only keyboard input for gameplay. A description of the key mapping follows.
-
+As of version 0.12, Macifom supports only keyboard input for gameplay. A description of the key mapping follows.
 
 = Details =
 
