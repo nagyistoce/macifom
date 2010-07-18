@@ -5,7 +5,7 @@
 
 The following list details Macifom's compatibility status with various free and commercial programs. Please contribute your own test results.
 
-Last Updated for v0.12
+Last Updated for v0.13
 
 = Details =
 
@@ -13,27 +13,27 @@ Last Updated for v0.12
   * nestest.nes - Passes for all legal opcodes.
   * Blargg's NES CPU Test 5 - Passes for all legal opcodes.
   * Palette RAM (Blargg's PPU Tests 2009-09-15b) - Passes.
-  * Power-up Palette (Blargg's PPU Tests 2009-09-15b) - Fails.
+  * Power-up Palette (Blargg's PPU Tests 2009-09-15b) - Fails (#2).
   * Sprite RAM (Blargg's PPU Tests 2009-09-15b) - Passes.
-  * VBL Clear Time (Blargg's PPU Tests 2009-09-15b) - Fails.
+  * VBL Clear Time (Blargg's PPU Tests 2009-09-15b) - Fails (#3).
   * VRAM Access (Blargg's PPU Tests 2009-09-15b) - Passes.
   * Branch Basics (Blargg's Branch Timing Tests) - Passes.
   * Backward Branches (Blargg's Branch Timing Tests) - Passes.
   * Forward Branches (Blargg's Branch Timing Tests) - Passes.
-  * Blargg's CLI Latency Test - Fails.
+  * Blargg's CLI Latency Test - Fails (#3).
   * Blargg's CPU Timing Test 6 - Passes for legal opcodes.
-  * Blargg's Sprite Hit Basics - Fails.
+  * Blargg's Sprite Hit Basics - Fails (#4).
   * Blargg's Sprite Hit Alignment - Passes.
   * Blargg's Sprite Hit Corners - Passes.
   * Blargg's Sprite Hit Flip - Passes.
-  * Blargg's Sprite Hit Left Edge - Fails.
-  * Blargg's Sprite Hit Right Edge - Fails.
-  * Blargg's Sprite Hit Screen Bottom - Fails.
+  * Blargg's Sprite Hit Left Clip - Fails (#2).
+  * Blargg's Sprite Hit Right Edge - Fails (#2).
+  * Blargg's Sprite Hit Screen Bottom - Fails (#2).
   * Blargg's Sprite Hit Double Height - Passes.
-  * Blargg's Sprite Hit Timing Basics - Fails.
-  * Blargg's Sprite Hit Order - Fails.
-  * Blargg's Sprite Hit Edge Timing - Fails.
-  * Blargg's Sprite Hit Timing - Fails (#5).
+  * Blargg's Sprite Hit Timing Basics - Fails (#3).
+  * Blargg's Sprite Hit Order - Fails (#3).
+  * Blargg's Sprite Hit Edge Timing - Fails (#2).
+  * Blargg's Sprite Hit Timing - Fails (#8).
   * Blargg's Sprite Overflow Basics - Passes.
   * Blargg's Sprite Overflow Details - Passes.
   * Blargg's Sprite Overflow Timing - Fails (#2).
