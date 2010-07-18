@@ -3,7 +3,7 @@
 
 = Introduction =
 
-As of version 0.12, Macifom supports only keyboard input for gameplay. A description of the key mapping follows.
+As of version 0.13, Macifom supports only keyboard input for gameplay. Support for USB gamepads is coming soon.
 
 = Details =
 
